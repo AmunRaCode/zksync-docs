@@ -15,7 +15,7 @@ links:
 - validity proofs
 - zk vs optimistic rollup
 
-## move to README: If all you got is 3 minutes
+## move to README: If all you have is 3 minutes
 
 Read this: [Why should I care about scaling with Zero-Knowledge Proofs?](/userdocs/why/)
 
